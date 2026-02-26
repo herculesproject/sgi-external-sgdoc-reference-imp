@@ -11,7 +11,7 @@
   </parent>
   <groupId>io.github.herculesproject.sgi</groupId>
   <artifactId>sgi-sgdoc-service</artifactId>
-  <version>0.4.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>sgi-sgdoc-service</name>
   <description>Servicios del Sistema de Gestión de Documentos</description>
   
@@ -155,7 +155,7 @@
 
   <properties>
     <java.version>1.8</java.version>
-    <sgi-framework-spring.version>0.0.5-SNAPSHOT</sgi-framework-spring.version>
+    <sgi-framework-spring.version>0.0.5</sgi-framework-spring.version>
     <wiremock.version>2.27.1</wiremock.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
